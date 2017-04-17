@@ -1,0 +1,12 @@
+{
+  "name": "simple-zip",
+  "version": "0.0.1",
+  "description": "压缩软件node，玩",
+  "main": "index.js",
+  "author": "toonew",
+  "license": "MIT",
+  "dependencies": {
+    "binary": "^0.3.0",
+    "pullstream": "^1.0.0"
+  }
+}
