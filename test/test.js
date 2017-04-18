@@ -6,5 +6,5 @@ const fs = require('fs');
 const unzip = require('../index');
 
 var rs = fs.createReadStream('./test.zip');
-var ws = unzip.Extract({path: 'output/path'});
+var ws = unzip.Extract({path: 'output/'});
 rs.pipe(ws);

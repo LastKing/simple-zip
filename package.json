@@ -7,6 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "binary": "^0.3.0",
+    "fstream": "^1.0.11",
+    "match-stream": "^0.0.2",
     "pullstream": "^1.0.0"
   }
 }
